@@ -1,3 +1,15 @@
+.navbar-brand:hover{
+    border-bottom: 2px solid white;
+    font-weight: bold;
+
+}
+
+li:hover{
+    border-bottom: 2px solid white;
+    font-weight: bold;
+}
+
+
 .intro { 
     background: url("../img/header.jpeg") no-repeat;
     background-size: 100%;
