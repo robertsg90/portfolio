@@ -1,5 +1,6 @@
 # portfolio
-My Portfoilo Page
+
+My Portfoilo 
 I completed this as part of my work through free code camp @ http://freecodecamp.com
 
 You can view the completed project here: https://robertsg90.github.io/free-code-camp-portfolio/
